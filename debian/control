@@ -1,0 +1,16 @@
+Source: arduino-atmega8
+Section: boards
+Priority: optional
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: arduino-atmega8
+Section: boards
+Architecture: all
+XBSC-Group: Arduino
+Depends: arduino
+Description: Arduino NG or older w/ ATmega8
+
+
+

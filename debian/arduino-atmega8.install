@@ -1,0 +1,2 @@
+src/board.txt boards/Arduino/arduino-atmega8
+src/pins_arduino.h boards/Arduino/arduino-atmega8
