@@ -9,6 +9,7 @@ Package: arduino-atmega8
 Section: boards
 Architecture: all
 XBSC-Group: Arduino
+XBSC-Subgroup: Generic
 Depends: arduino
 Description: Arduino NG or older w/ ATmega8
 
